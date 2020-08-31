@@ -1,0 +1,73 @@
+.bodyelement{
+    background-color:rgb(194, 156, 156);
+    width: 100%;
+    margin: 0px;
+}
+.navbar{
+    background-color:rgb(194, 156, 156);
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+
+
+.nav-link{
+    color: white;
+}
+
+.home1{
+    color: white;
+    position: absolute;
+    top: 170px;
+    right: 535px;
+    text-align: center;
+
+}
+.branch{
+    border: solid;   
+    border-radius: 50%;
+    width: 40%;
+    height: 100px;
+    padding: 10px;
+    position: absolute;
+    right: 85px;
+}
+.welcomeimage{
+    width: 100%;
+    height: 450px;
+    margin: 0px;
+    border-bottom-right-radius: 30%;
+    padding: 0px;
+}
+
+.home2{
+    width: 100%;
+    padding: 100px;
+    color: white;
+    margin: 0px;
+    background-color: rgb(194, 156, 156);
+    border-bottom-left-radius: 30%;
+    text-align: center;
+}
+
+.greetingimage{
+    width: 10%;
+    border-radius: 30%;
+    padding: 0px;
+}
+
+.greetings{
+    float: right;
+    width: 70%;
+    padding: 0px;
+ 
+}
+footer{
+    padding: 30px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: normal;
+    background-color: white;
+    border-top-left-radius: 70%;
+}
